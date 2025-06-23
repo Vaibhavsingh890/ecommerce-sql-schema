@@ -1,0 +1,1 @@
+Customers (1) —< Orders (1) —< OrderItems >— (1) Products
